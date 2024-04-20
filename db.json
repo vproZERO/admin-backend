@@ -1,0 +1,60 @@
+{
+  "product": [
+    {
+      "title": "Xiaomi Redmi Note 13 Green 8/128 GB",
+      "brand": "Xiaomi ",
+      "code": "Ташкент",
+      "country": "Китай",
+      "tax": 10,
+      "description": "Redmi Note 13 получил OLED-дисплей диагональю 6,67 дюйма с разрешением 2460×1080 пикселей и частотой обновления изображения 120 Гц. Смартфон оснащается встроенным под экран сканером отпечатков пальцев. В компании заявили, что он работает быстро и позволяет считывать частоту сердечных сокращений. Корпус новинки защищен от влаги по стандарту IP54. Работает аппарат на базе чипа MediaTek Dimensity 6080, оперативной памяти внутри — 6, 8 или 12 ГБ, а встроенной — 128 или 256 ГБ. Аккумулятор емкостью 5000 мАч поддерживает быструю зарядку мощностью 33 Вт. Камер в телефоне три: основная с 100 Мп, датчик глубины с 2 Мп и фронтальная с 16 Мп.",
+      "weight": "5",
+      "length": "2400x1080",
+      "width": "1000",
+      "height": "1000",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-29/S5UhY3FOSeGWhwYJ0sHKkdspzfvck4iRJev46pEMCW0KlWlG41byGhCc4pSg.jpg",
+      "color": "silver",
+      "vendor": "12132323424234",
+      "barcode": "4124242432435454",
+      "price": 2.695,
+      "discount": 2.395,
+      "premiumcount": 2,
+      "id": 1
+    },
+    {
+      "title": "Мужские брюки штаны однотонные, повседневные",
+      "brand": "nike",
+      "code": "12121212",
+      "country": "uzbekistan",
+      "description": "Мужские брюки штаны однотонные, повседневные",
+      "weight": "121212",
+      "length": "23322",
+      "width": "1321",
+      "height": "2323",
+      "img": "https://images.uzum.uz/ci1b4p3ltlh4bk4l9cmg/original.jpg",
+      "vendor": "w11w1",
+      "color": "black",
+      "price": "101",
+      "discount": "99",
+      "premiumcount": "80",
+      "id": 2
+    },
+    {
+      "title": "asas",
+      "brand": "sasqsq",
+      "code": "wqsqs",
+      "country": "qsqsqq",
+      "description": "sqsqs",
+      "weight": "sqsqs",
+      "length": "qsqsq",
+      "width": "sqsq",
+      "height": "qsqss",
+      "img": "sqsqs",
+      "vendor": "qsqs",
+      "color": "qsqs",
+      "price": "qsqsq",
+      "discount": "sqsq",
+      "premiumcount": "sqs",
+      "id": 3
+    }
+  ]
+}
